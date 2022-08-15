@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/mr-robot-mrrobotedit-dLolp8dtrYCJi" width="600" height="300"/>
+  <img src="[https://giphy.com/gifs/mr-robot-mrrobotedit-dLolp8dtrYCJi](https://giphy.com/gifs/mr-robot-mrrobotedit-dLolp8dtrYCJi)" width="600" height="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nathan-hallouin/" target="_blank">
