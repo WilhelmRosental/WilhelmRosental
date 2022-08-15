@@ -1,9 +1,7 @@
 ### Hello there 👋
 
 
-<div id="header" align="center">
-  <img src="[https://giphy.com/gifs/mr-robot-mrrobotedit-dLolp8dtrYCJi](https://giphy.com/gifs/mr-robot-mrrobotedit-dLolp8dtrYCJi)" width="600" height="300"/>
-</div>
+<iframe src="https://giphy.com/embed/dLolp8dtrYCJi" width="429" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mr-robot-mrrobotedit-dLolp8dtrYCJi">via GIPHY</a></p>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nathan-hallouin/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
