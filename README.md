@@ -1,12 +1,8 @@
 ### Hello there 👋
 
 
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jz7nZTW5oEBZAAZ4ge/giphy.gif" width="300"/>
-</div>-->
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+  <img src="https://giphy.com/gifs/mr-robot-mrrobotedit-dLolp8dtrYCJi" width="600" height="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nathan-hallouin/" target="_blank">
