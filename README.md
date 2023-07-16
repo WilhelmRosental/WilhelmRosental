@@ -1,5 +1,3 @@
-### Hello there 👋
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilhelmRosental&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="badges" align="center">
