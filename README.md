@@ -25,17 +25,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-| Project Name            | Tech Stack                                 | Description                                                               |
-|-------------------------|---------------------------------------------|---------------------------------------------------------------------------|
-| **Portfolio**           | React, TypeScript, Tailwind CSS             | My personal website showcasing my work and skills.                        |
-| **Task Manager**        | Spring Boot, React, PostgreSQL              | Full-stack app for team to-do management and collaboration.               |
-| **E-Commerce Platform** | Spring Boot, React, Stripe, MongoDB         | Online store with integrated payments and admin back-office.              |
-| **Collaborative Blog**  | Spring Boot, Thymeleaf, Bootstrap, MySQL    | Multi-author CMS with WYSIWYG editor and content moderation.              |
-
----
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilhelmRosental&show_icons=true&theme=transparent)
