@@ -1,7 +1,5 @@
 ## 🚀 European Tech Evangelist
 
----
-
 ## 🛠️ Skills
 
 - **Frontend**  
