@@ -39,8 +39,3 @@
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilhelmRosental&show_icons=true&theme=transparent)
-
----
-
-> “Software architecture is the art and science of designing systems that are both robust and adaptable.”  
-> – Wil.
