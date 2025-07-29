@@ -13,7 +13,7 @@ I love turning complex ideas into scalable, maintainable applications — whethe
 - Angular (Components, Services, RxJS)  
 - TypeScript, JavaScript (ES6+)  
 - HTML5, CSS3, SCSS, Tailwind CSS  
-- Testing: Jest, React Testing Library  
+- Testing: Jest, React Testing Library, Vitest, Playwright
 
 ### 🧠 Backend  
 - Node.js (Express, Fastify, REST APIs, Microservices)  
