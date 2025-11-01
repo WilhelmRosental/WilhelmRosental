@@ -2,7 +2,7 @@
 
 Hi there! I’m a passionate fullstack developer crafting web experiences with clean code, solid architecture, and a touch of good design.
 
-I love turning complex ideas into scalable, maintainable applications — whether it’s building powerful backends or smooth, reactive UIs.
+I love turning complex ideas into scalable, maintainable applications, whether it’s building powerful backends or smooth, reactive UIs.
 
 ---
 
