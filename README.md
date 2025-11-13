@@ -4,7 +4,7 @@
 
 ## Fullstack Engineer & Problem Solver
 
-*"Simplicity is the ultimate sophistication"*
+*"Great code whispers its intent, bad code screams its confusion."*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-a684ff?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-hallouin)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-a684ff?style=flat-square&logo=google-chrome&logoColor=white)](https://nathanhallouin.dev)
