@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Nathan%20Hallouin&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=a684ff&height=200&section=header&text=Nathan%20Hallouin&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
 ## Fullstack Engineer & Problem Solver
 
