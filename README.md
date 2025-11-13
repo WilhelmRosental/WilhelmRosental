@@ -2,14 +2,14 @@
 
 <div align="center">
 
-### 🚀 Senior Fullstack Engineer
+### 🚀 Fullstack Engineer
 **React • Node.js • TypeScript • Cloud Architecture**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nathan-hallouin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nathanhallouin.dev)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathan.hallouin@ikmail.com)
 
-> 💡 Building scalable, production-grade applications with modern JavaScript ecosystems and cloud-native architectures.
+💡 Building scalable, production-grade applications with modern JavaScript ecosystems and cloud-native architectures.
 
 </div>
 
@@ -32,12 +32,14 @@ const wilhelmRosental = {
 
 ### 💻 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
 
 **React Ecosystem** • Hooks • Context API • Redux • Server Components
+**Vue.js** • Composition API • Pinia • Vuex • Reactive Programming
 **Angular** • RxJS • Reactive Programming • Component Architecture
 **Core Tech** • TypeScript • JavaScript (ES6+) • HTML5 • CSS3
 **Styling** • SCSS • Tailwind CSS • CSS-in-JS • Responsive Design
@@ -67,6 +69,14 @@ const wilhelmRosental = {
 **Cloud Platforms** • AWS (EC2, S3, RDS, Lambda) • Infrastructure as Code
 **Development Workflow** • Git • Agile/Scrum • Code Review • Documentation
 
+### 🤖 AI-Enhanced Development
+![Claude](https://img.shields.io/badge/Claude-AI_Assistant-8B5CF6?style=flat&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Protocol-6366F1?style=flat&logo=serverless&logoColor=white)
+
+**AI Workflow** • Claude Code • Model Context Protocol (MCP) • AI-Assisted Development
+**Productivity** • Intelligent Code Generation • Automated Refactoring • Context-Aware Suggestions
+**Integration** • MCP Servers • Custom Tools • Workflow Automation
+
 ---
 
 ## 📊 GitHub Stats
@@ -80,35 +90,6 @@ const wilhelmRosental = {
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WilhelmRosental&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
 
 </div>
-
----
-
-## 🎯 Engineering Principles
-
-```mermaid
-mindmap
-  root((Wilhelm))
-    Code Quality
-      Clean Architecture
-      SOLID Principles
-      Design Patterns
-      Maintainability
-    Performance
-      Load Optimization
-      Bundle Size
-      Database Tuning
-      Caching Strategies
-    Security
-      OWASP Compliance
-      Authentication
-      Data Protection
-      Vulnerability Management
-    Collaboration
-      Documentation
-      Knowledge Sharing
-      Code Review
-      Team Communication
-```
 
 ---
 
