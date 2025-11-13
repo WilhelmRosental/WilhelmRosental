@@ -7,7 +7,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nathan-hallouin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nathanhallouin.dev)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathan.hallouin@ikmail.com)
 
 💡 Building scalable, production-grade applications with modern JavaScript ecosystems and cloud-native architectures.
 
